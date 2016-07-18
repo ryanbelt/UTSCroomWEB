@@ -1,0 +1,10 @@
+
+.footer{
+    position: relative;
+    clear:both;
+    font-size:115%;
+    font-family: Avro;
+    color:white ;
+    text-align:right;
+    vertical-align: central;
+}
